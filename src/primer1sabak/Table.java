@@ -1,3 +1,5 @@
+package primer1sabak;
+
 public class Table {
     String color;
     String material;

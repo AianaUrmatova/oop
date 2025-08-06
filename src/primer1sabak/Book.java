@@ -1,3 +1,5 @@
+package primer1sabak;
+
 public class Book {
     String title;
     String author;

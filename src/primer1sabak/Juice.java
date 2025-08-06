@@ -1,3 +1,5 @@
+package primer1sabak;
+
 public class Juice {
     String taste;
     String color;

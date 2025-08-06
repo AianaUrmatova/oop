@@ -1,3 +1,5 @@
+package primer1sabak;
+
 public class Passport {
     Long id;
     String firsName;

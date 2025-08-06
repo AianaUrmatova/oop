@@ -1,10 +1,12 @@
+package primer1sabak;
+
 import MainTask1Java.Triangle;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
-    public static void main(String[] args) {
-//        Juice juice = new Juice();
+//public class Main {
+//    public static void main(String[] args) {
+////        primer1sabak.Juice juice = new primer1sabak.Juice();
 //        juice.taste = "orange";
 //        juice.color = "yellow";
 //        juice.temperature = "cold";
@@ -12,12 +14,12 @@ public class Main {
 //        juice.getinfo();
 //
 //
-//        Juice[] array = {juice};
+//        primer1sabak.Juice[] array = {juice};
 //        for (int i = 0; i < array.length; i++) {
 //            array[i].getinfo();
 //        }
 //
-//        Car car = new Car();
+//        primer1sabak.Car car = new primer1sabak.Car();
 //        car.color = "black";
 //        car.brand = "Tesla";
 //        car.model = "Model 3";
@@ -25,43 +27,43 @@ public class Main {
 //        car.transmission = "auto";
 //        car.condition = "new";
 //        car.getCar();
-//        Car[] arrays = {car};
+//        primer1sabak.Car[] arrays = {car};
 //        for (int i = 0; i < arrays.length; i++) {
 //            arrays[i].getCar();
 //
 //        }
 //
 //
-//        Table table = new Table();
+//        primer1sabak.Table table = new primer1sabak.Table();
 //        table.color = "brown";
 //        table.material = "wood";
 //        table.size = "small";
 //        table.height = "low";
 //        table.codition = "new";
 //        table.getInf();
-//        Table[] arays = {table};
+//        primer1sabak.Table[] arays = {table};
 //        for (int i = 0; i < arays.length; i++) {
 //            arays[i].getInf();
 //
 //        }
 //
-//        Book book = new Book();
+//        primer1sabak.Book book = new primer1sabak.Book();
 //        book.title = "Harry Poter";
 //        book.author = "J.K";
 //        book.genre = "fantasy";
 //        book.language = "English";
 //        book.year = 1997;
 //        book.getBook();
-//        Book[] arra = {book};
+//        primer1sabak.Book[] arra = {book};
 //        for (int i = 0; i < arra.length; i++) {
 
-       Triangle triangle=new Triangle();
-       triangle.a=10;
-       triangle.b=15;
-       triangle.c=16;
-        System.out.println("Uch burchtuk: " );
-        triangle.area();
-        }
-    }
+//       Triangle triangle=new Triangle();
+//       triangle.a=10;
+//       triangle.b=15;
+//       triangle.c=16;
+//        System.out.println("Uch burchtuk: " );
+//        triangle.area();
+//        }
+//    }
 
 

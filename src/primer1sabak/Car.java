@@ -1,3 +1,5 @@
+package primer1sabak;
+
 public class Car {
     String color;
     String brand;
