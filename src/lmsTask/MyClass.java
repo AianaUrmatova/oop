@@ -25,7 +25,9 @@ public class MyClass {
     public void getInfo() {
         System.out.println("Аты: " + name + "\n" +
                 "Фамилиясы: " + surname + "\n" +
-                "Жашы: " + age + "\n");
+                "Жашы: " + age + "\n" +
+                "courses"+courses+"\n"+
+                "food :"+food+"\n");
 
     }public void snowLessons(){
         if (courses != null) {
