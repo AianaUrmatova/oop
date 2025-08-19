@@ -1,0 +1,7 @@
+package polymorphizm;
+
+public class Animal {
+    public void makeSound(){
+        System.out.println("Animal make a sound");
+    }
+}

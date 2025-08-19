@@ -9,6 +9,5 @@ public class Main {
         for (Person person:people){
             person.walk();
         }
-
     }
 }
