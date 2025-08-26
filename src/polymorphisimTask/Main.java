@@ -25,7 +25,7 @@ public class Main {
                 System.out.println(animal);
 
             }
-        }
+        } 
 Eagle eagle = new Eagle();
         eagle.fly();
 
